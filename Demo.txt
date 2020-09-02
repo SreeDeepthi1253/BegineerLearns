@@ -1,2 +1,2 @@
 This is a demo file.
-And changed
+I made changes to previous commit.
